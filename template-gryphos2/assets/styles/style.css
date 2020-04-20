@@ -1,0 +1,115 @@
+body{
+    background-color:#E6EFF6;
+}
+.block1{
+    width: 756px;
+    height: 220px;
+    background-color: white;
+    margin-left: 60vh;
+    margin-top: 5%;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10PX;
+}
+.block1 h1{
+    font-size: 27px;
+    padding-left: 40px;
+    padding-top: 50px;
+    color:#5EC9CC;
+    font-family: 'Comfortaa', cursive;
+    font-weight: bold
+}
+.block1 h2{
+    font-size: 18px;
+    padding-left: 40px;
+    padding-top: 20px;
+    color:#CCE069;
+    font-family: 'Comfortaa', cursive;
+    font-weight: bold
+}
+.block1 h3{
+    font-size: 16px;
+    padding-left: 40px;
+    padding-top: 15px;
+    color:gray;
+    font-family: 'Comfortaa', cursive;
+    font-weight: bold;
+    line-height:27px;
+}
+
+.block2{
+    width: 378px;
+    height: 290px;
+    background-color:#20A6B4 ;
+    margin-left: 60vh;
+    border-bottom-LEFT-radius:10PX ;
+}
+.block2 h1{
+    font-size: 24px;
+    padding-left: 40px;
+    padding-top: 50px;
+    color:white;
+    font-family: 'Comfortaa', cursive;
+    font-weight: bold
+}
+.block2 h2{
+    font-size: 32px;
+    padding-left: 40px;
+    padding-top: 28px;
+    color:white;
+    font-family: 'Comfortaa', cursive;
+    font-weight: bold
+}
+.block2 h3{
+    font-size: 18px;
+    padding-left: 100px;
+    margin-top:-20px;
+    color:rgba(0, 0, 0, 0.445);
+    font-family: 'Comfortaa', cursive;
+}
+.block2 h4{
+    font-size: 18px;
+    padding-left: 40px;
+    padding-top: 20px;
+    color:white;
+    font-family: 'Comfortaa', cursive;
+    font-weight: bold
+    
+}
+.block2 button{
+    color: white;
+    background-color: #BFDF32;
+    font-size: 20px;
+    border-radius: 10px;
+    height: 50px;
+    width: 250px ;
+    margin-top: 30px;
+    margin-left: 64px;
+    font-weight: bold;
+    font-family: 'Comfortaa', cursive;
+    border: 0px;
+}
+.block3{
+    width: 378px;
+    height: 290px;
+    background-color: #40B2BE;
+    margin-left:896px;
+    margin-top:-290px ; 
+    border-bottom-right-radius: 10PX;
+    font-family: 'Comfortaa', cursive;
+}
+.block3 h1{
+    font-size: 18px;
+    padding-left: 40px;
+    padding-top: 50px;
+    color:white;
+    font-family: 'Comfortaa', cursive;
+    font-weight:bold
+}
+.block3 ul{
+    font-size: 16px;
+    color: white;
+    padding-left: 40px;
+    padding-top: 25px;
+    line-height: 25px;
+
+}
